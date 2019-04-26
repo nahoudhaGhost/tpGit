@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 le chat est un félidé. il est consideré comme le roi d'internet. il vit principalement dans les zones arides telles que la savane. Ou alors à la télévision ne nous transmet pas toujours la vérité
+=======
+l'élephant est un pachyderme. il est consideré comme le roi des animaux.il aime l'eau. il vit principalement dans les zones arides telles que la savane. Il se fait chasser pour son ivoire.
+>>>>>>> feature/elephant
